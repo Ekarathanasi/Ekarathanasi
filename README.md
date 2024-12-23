@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanouil Karathanasis
 - 👀 I’m interested in Astrophysics
-- 🌱 I’m currently learning MSc Astro and Particle Physics
+- 🌱 I’m currently doing MSc Astro and Particle Physics
 - 📫 How to reach me e.karathanasiss@gmail.con
 
 
